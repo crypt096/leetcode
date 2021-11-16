@@ -1,3 +1,3 @@
 ### Leetcode solutions by crypt0
 
-<img src="./assets/hr.png" />
+<img src="./assets/leetcode-logo.png" />
